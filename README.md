@@ -1,5 +1,5 @@
 # Manoj
 I am Manoj Telrandhe
 <br>
-M.Tech(Machin Learning), IIIT Delhi (2023-2025)
+M.Tech (Machine Learning), 2023-2025, IIIT Delhi
 
